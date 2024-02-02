@@ -1,0 +1,88 @@
+Project Paths:
+#3: Getting Started with Backend | Creating a Server using Express.JS
+#4: Express Routers 🔥 Creating and Organizing Routes
+#5: Controllers in Express.js 🔥 Managing Your Application's Logic
+#6: User Registration in Express.js with Postman 🔥 Getting User Data as Response
+#7: Connecting Backend with MongoDB Database (Node.js + Mongoose Connection)
+#8: Securing Your Private Data with Dotenv in our Backend App | MERN Tutorial in Hindi
+#9: Creating the User Schema & Model for User Registration in our MERN App
+#10: Storing Registered User Data in an Online Database with Express and Mongoose 🔥
+#11: Secure User Password using Bcrypt.js
+#12: Secure User Authentication with JSON Web Token (JWT) in our MERN App 🔥
+#13: Building a Complete User Login Route with Functionality in Our MERN App
+#14: Our First MERN Series Challenge: Building a Custom Compare Password Check Function 🔥
+#15: Registration & Login Form Validation using ZOD in our MERN Stack App in Hindi
+#16: Express.js Error Handling: A Deep Dive into Error Middleware Implementation in Our MERN Ap
+#17: Building Complete Contact Form (Schema, Route & Logics) for Backend in our MERN App
+#19: Installing React.js with Vite for Frontend Development | MERN Series
+      1. visit website to vite with react https://vitejs.dev/guide/
+      2. copy command to install react project in terminal - npm create vite@latest
+      3. past in the terminal
+      4. then create project
+#20: React Page Navigation with React Router DOM | MERN Series
+    1. install package - react-router-dom then use in your project
+    2. React Router website find the tutorial - https://reactrouter.com/en/main/router-components/browser-router
+    3. 
+#21: Building Navbar with React | Open Page without Reloading | MERN Series
+#22: Complete Registration Page UI & stored Form data in React State Variable | MERN Series
+#24: Working Contact Form using React.JS + Storing Data in State | MERN Series
+#25: Building a Complete MERN Stack Website | 404 Error Page, Styling, and More!
+
+-------------
+#26: Connect React with NodeJS & MongoDB | Stored Registration Form Data in Database in MERN
+    1. use package -> Fetch , Axios
+    2. if getting cors error use -> npm i cors
+
+#28: How to Store JWT Token in Local Storage using Context API for Authentication in MERN STACK
+#29: How to LOGOUT in our MERN Stack + Toggle Login Logout Button in Navbar
+    1. create route of Logout page.
+    2. create logout page.
+    3. use logout Functionality in auth page
+    4. create route in navbar.
+    5. after login show logout button
+
+#30: JWT Token Verification Middleware + Creating Route to Get User Data from DB
+    1. create route in Backend "/user".
+    2. create user login controller
+    3. add authMiddleware in user route. 
+
+#31: Authentication in MERN App 🔥 Auto-Fill Contact Fields with User Data from the Database
+MERN Challenge #4: Fetch User Data from Database and Display in About Page with React.JS
+#33: Building Service Page Backend - Schema, Model, Route, and Controller | MERN Series
+        1. Schema, Model -> service-model.js
+        2. Route -> service-router.js
+        3. Controller -> service-controller.js 
+        4. Define route in service.js 
+#36: Integrating React Toastify for Dynamic Alerts in React Apps | Mern Series in Hindi
+    1. React Toastify -> "npm i react-toastify"
+    2. 
+
+//Admin panel Started
+#39: MERN Admin Dashboard 👉 Retrieving User Data and MongoDB Basics | MERN Admin Panel in Hindi
+    1. create router page -> admin-router.js
+    2. crate controller -> admin-controller.js
+    user Atlas Database in terminal
+    a) mongosh "path atlas database url"
+    b) show dbs
+    c) use mern_admin
+    d) show collections
+    e) db.users.find()
+#41: Secure our Admin Route with JWT Verification and Middleware Integration in MERN Stack
+    1. A user is logged in or not 
+    2. 
+
+#43: Building Admin Page Layouts 👉 Nested Admin Routes & Outlet || Navbar with React Icons
+    1. Nested route -> App.jsx
+    2. user react icon ->npm i react-icons
+
+#44: CRUD in MERN Stack: Admin User Page with React JS by Fetching Data from Back-End
+#45: MERN Stack CRUD👉 How to Delete User from Admin User Page (Frontend + Backend)
+#46: Updating User Data in MERN Admin Panel 🔥- Backend Route & Logic 👨‍💻
+#48: MERN Admin CRUD: Updating User Data | Backend Route & Logics 🔥
+#49: User Data Updates in MERN Stack | React Form Handling, Toast Alerts & Smooth Interactions
+    "Admin-Update.jsx"
+    
+
+
+//create form module
+//1. Model, 2. contact Route, 3. controller, 4. route path, 5. create new request in Postman
